@@ -1,1 +1,1 @@
-varikarin,bledi,10,10.0
+lulemoj,bledi,10,10.0
