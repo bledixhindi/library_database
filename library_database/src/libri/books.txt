@@ -1,2 +1,2 @@
-kakakkakakakka,bledi,10,10.0
-kakakka,ka,111,2.0
+test,bledi,10,10.0
+test,ka,111,2.0
